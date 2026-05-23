@@ -1,2 +1,2 @@
 # stat-metabo
-Scripts python pour analyses statistiques de nos données métabolomiques
+Python scripts for statistical analysis of metabolomic data
